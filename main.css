@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    background-image: url('img/background.png');
+}
+
+h1 {
+    text-align: center;
+    padding: 35px;
+    font-family: 'Spicy Rice', cursive;
+    letter-spacing: 0.5em;
+    font-size: 4em;
+    border-bottom: 1px dotted #7F9788;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    font-size: 2em;
+    color: black;
+}
+
+#profile {
+    margin: 35px;
+    padding: 15px;
+    background-color: #7F9788;
+    border: 1px solid #7F9788;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    float: left;
+    clear: both;
+}
+
+#about {
+    padding: 25px;
+    width: 650px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2em;
+    width: 450px;
+    margin-left: 45px;
+    overflow: auto;
+    display: block;
+}
+
+#p {
+    padding-top: 45px;
+}
+
+#contact {
+    padding: 25px;
+    width: 850px;
+}
+
+#info {
+    padding-bottom: 65px;
+    border-bottom: 1px solid #7F9788;
+}
+
+#button {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 55px;
+    text-align: center;
+    padding: 25px 2px;
+    width: 75px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius:50%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+    color: white;
+}
+
+#button:hover {
+    background-color: #A7CBB5;
+    border: 1px solid #A7CBB5;
+}
+
+#p2 {
+    text-align: center;
+    margin-top: 65px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#homepage {
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-bottom: 55px;
+    text-align: center;
+    padding: 25px 2px;
+    width: 75px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius:50%;
+}
+
+#homepage:hover {
+    background-color: #A7CBB5;
+    border: 1px solid #A7CBB5;
+}
+
+#vidbox {
+    padding: 55px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#portfolio {
+    margin-top: 150px;
+    margin-bottom: 55px;
+    margin-right: 35px;
+    float: right;
+    text-align: center;
+    padding: 25px 2px;
+    width: 75px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius:50%;
+}
+
+#portfolio:hover {
+    background-color: #A7CBB5;
+    border: 1px solid #A7CBB5;
+}
+
+#box {
+    width: 450px;
+    height: 275px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 55px;
+}
+
+#video {
+    margin-top: 150px;
+    margin-bottom: 55px;
+    margin-right: 35px;
+    float: right;
+    text-align: center;
+    padding: 25px 2px;
+    width: 75px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius:50%;
+}
+
+#video:hover {
+    background-color: #A7CBB5;
+    border: 1px solid #A7CBB5;
+}
+
